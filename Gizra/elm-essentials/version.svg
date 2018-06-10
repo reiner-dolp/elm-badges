@@ -10,14 +10,14 @@
 
   <g mask="url(#round)">
     <rect width="49" height="20" fill="#555"/>
-    <rect x="49" width="36" height="20" fill="green"/>
+    <rect x="49" width="36" height="20" fill="#44cc11"/>
     <rect width="85" height="20" fill="url(#smooth)"/>
   </g>
 
   <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
     <text x="24" y="15" fill="#010101" fill-opacity=".3">version</text>
     <text x="24" y="14">version</text>
-    <text x="67" y="15" fill="#010101" fill-opacity=".3">1.5.0</text>
-    <text x="67" y="14">1.5.0</text>
+    <text x="67" y="15" fill="#010101" fill-opacity=".3">1.6.0</text>
+    <text x="67" y="14">1.6.0</text>
   </g>
 </svg>
