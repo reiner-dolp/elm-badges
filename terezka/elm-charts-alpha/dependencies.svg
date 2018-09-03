@@ -1,23 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="185" height="20">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="122" height="20">
   <linearGradient id="smooth" x2="0" y2="100%">
     <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
     <stop offset="1" stop-opacity=".1"/>
   </linearGradient>
 
   <mask id="round">
-    <rect width="185" height="20" rx="3" fill="#fff"/>
+    <rect width="122" height="20" rx="3" fill="#fff"/>
   </mask>
 
   <g mask="url(#round)">
     <rect width="87" height="20" fill="#555"/>
-    <rect x="87" width="98" height="20" fill="#dfb317"/>
-    <rect width="185" height="20" fill="url(#smooth)"/>
+    <rect x="87" width="35" height="20" fill="#9f9f9f"/>
+    <rect width="122" height="20" fill="url(#smooth)"/>
   </g>
 
   <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
     <text x="43" y="15" fill="#010101" fill-opacity=".3">dependencies</text>
     <text x="43" y="14">dependencies</text>
-    <text x="136" y="15" fill="#010101" fill-opacity=".3">1 of 9 outdated</text>
-    <text x="136" y="14">1 of 9 outdated</text>
+    <text x="104" y="15" fill="#010101" fill-opacity=".3">error</text>
+    <text x="104" y="14">error</text>
   </g>
 </svg>
