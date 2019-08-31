@@ -17,7 +17,7 @@
   <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
     <text x="24" y="15" fill="#010101" fill-opacity=".3">version</text>
     <text x="24" y="14">version</text>
-    <text x="70" y="15" fill="#010101" fill-opacity=".3">12.1.2</text>
-    <text x="70" y="14">12.1.2</text>
+    <text x="70" y="15" fill="#010101" fill-opacity=".3">13.0.0</text>
+    <text x="70" y="14">13.0.0</text>
   </g>
 </svg>
